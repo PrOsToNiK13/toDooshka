@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AddNewGroupWidget.qml</file>
+        <file>TaskEditor.qml</file>
+        <file>TaskDelegate.qml</file>
+        <file>Calendar.qml</file>
+        <file>DataPicker.qml</file>
+        <file>SysTrayIcon.qml</file>
+    </qresource>
+    <qresource prefix="/png">
+        <file>icons8-plus-50.png</file>
+    </qresource>
+</RCC>
